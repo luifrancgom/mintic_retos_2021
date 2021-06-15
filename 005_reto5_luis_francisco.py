@@ -136,5 +136,5 @@ for i in range(0, len(max_materia_organica_p2o5), 1):
 for i in range(0, len(conteo_categorias), 1):
     print(f"{conteo_categorias[i][0]} {conteo_categorias[i][1]}")
 
-# Undécimo de cierra el archivo
+# Undécimo, se cierra el archivo
 archivo.close()
