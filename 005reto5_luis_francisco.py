@@ -126,7 +126,7 @@ for i in range(0, len(min_materia_organica_p2o5), 1):
 # Máximos
 for i in range(0, len(max_materia_organica_p2o5), 1):
     if i != len(max_materia_organica_p2o5) - 1:
-        # En esta parte codegrade solicita el áximo
+        # En esta parte codegrade solicita el máximo
         # de p205 sin decimales
         print(f"{max_materia_organica_p2o5[i]}", end=" ")
     else:
