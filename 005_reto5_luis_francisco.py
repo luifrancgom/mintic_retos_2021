@@ -104,7 +104,7 @@ conteo_categorias = [["sumamente apto", n_sumamente_apto],
 # https://stackoverflow.com/questions/27999249/how-to-sort-list-of-tuples-by-several-keys
 conteo_categorias.sort(key=lambda par: [-par[1], par[0]])
 
-# Décimo, se se realiza la impresión de los resultados
+# Décimo, se realiza la impresión de los resultados
 # en base al formato solicitado
 
 # Promedios
