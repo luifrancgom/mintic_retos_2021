@@ -3,8 +3,7 @@ import pandas as pd
 
 # Primero, escoger una ciudad
 # No se incluyen mensajes en los inputs
-# ciudad = input()
-ciudad = "Barranquilla"
+ciudad = input()
 
 # Segundo, importar el archivo, seleccionar las variables
 # de interés y filtrar ciudad de interés
